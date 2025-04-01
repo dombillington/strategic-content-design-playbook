@@ -1,1 +1,1 @@
-# stratcon
+# Strategic content design playbook
