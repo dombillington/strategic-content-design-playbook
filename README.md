@@ -5,7 +5,7 @@
 
 On Wednesday 19 March 2025, we delivered a talk as part of Services Week 2025. This talk was called 'Using strategic content design to deliver better people-centred services' and was attended by nearly 200 people.
 
-If you work in government, you can [watch the talk on YouTube([https://duckduckgo.com](https://www.youtube.com/watch?si=u7Ud51ag3PdgQg2-&v=BVOmpMnQTuE&feature=youtu.be))
+If you work in government, you can [watch the talk on YouTube](https://www.youtube.com/watch?si=u7Ud51ag3PdgQg2-&v=BVOmpMnQTuE&feature=youtu.be)
 
 We've had so many supportive messages from people who want to keep the conversation going and use strategic content design in their roles. So, we've created an open-source GitHub repository that we can use as a strategic content design playbook.
 
